@@ -1,5 +1,16 @@
-Here you can say lots of fun things about your site.
+Hi, I'm Sharif – an unapologetic tech enthusiast with a affinity for all things startups, especially in the fintech and SaaS realms. I find joy writing lines of code and late-night brainstorming sessions over some good matcha.
 
-Maybe say a some things about yourself.
+I kicked off this blog as a platform to dive headfirst into the whirlwind world of technology, education, and som. Here, you'll find me sharing my thoughts, insights, and even a few war stories from the trenches of the startup battlefield. It's not just about the latest gadgets or trendy apps; it's about dissecting the very heartbeat of innovation.
 
-Or maybe what you plan to blog about.
+Let's get to the nitty-gritty of what's keeping me busy:
+
+🔭 Right now, I'm deep into two intriguing projects that are really stirring things up. I've got an amazing crew of like-minded thinkers alongside me, and together, we're weaving our ideas into reality. I can't wait to share more about our journey with you – it's bound to make a difference in these domains. Stay tuned for updates!
+
+So, whether you're a fellow tech junkie, a startup enthusiast, or just someone looking to stay on the cutting edge of what's happening in tech, welcome to the Szechuan SaaS blog!
+
+A few more notes about me:
+🤝 a polygot developer working primarily with Rust (Diesel-Orm,Actix-web, Shuttle.rs), Javascript (React & Node).
+🌱 I’m currently learning how to build smart contracts with Rust.
+✨ Interested in blockchain technology , Web3, and to collaborate on front end development for my public repos & open source.
+🤔 I’m looking for help with monetizing apps and finding product market fit for side projects & learning more about cloud developent (AWS)
+💬 Ask me anything
