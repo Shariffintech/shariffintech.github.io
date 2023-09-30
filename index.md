@@ -1,3 +1,5 @@
+Official [Meet The Requirements Merch](https://meet-the-requirements.printify.me/products)
+
 Hi, I'm Sharif – an unapologetic tech enthusiast with a affinity for all things startups, especially in the fintech and SaaS realms. I find joy writing lines of code and late-night brainstorming sessions over some good matcha.
 
 I kicked off this blog as a platform to dive headfirst into the whirlwind world of technology, education, and some market specific hot takes. Here, you'll find me sharing my thoughts, insights, and even a few war stories from the trenches of the startup battlefield. It's not just about the latest gadgets or trendy apps; it's about dissecting the very heartbeat of innovation.
@@ -20,5 +22,3 @@ A few more notes about me:
 💬 Ask me anything
 
 note: gpt did helped me edit minor grammar, the meta aspect of this blog is to make me a better technical writer. (would be cool to see this kind of verification accross the web maybe using something like [Spruce](https://www.spruceid.dev/))
-
-Official [Meet The Requirements Merch](https://meet-the-requirements.printify.me/products)
