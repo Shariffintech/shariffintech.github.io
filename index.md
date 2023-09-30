@@ -4,13 +4,19 @@ I kicked off this blog as a platform to dive headfirst into the whirlwind world 
 
 Let's get to the nitty-gritty of what's keeping me busy:
 
-🔭 Right now, I'm deep into two intriguing projects that are really stirring things up. I've got an amazing crew of like-minded thinkers alongside me, and together, we're weaving our ideas into reality. I can't wait to share more about our journey with you – it's bound to make a difference in these domains. Stay tuned for updates!
+🔭 Right now, I'm deep into two intriguing projects that are really stirring things up. I've got an amazing crew of like-minded thinkers alongside me, and together, we're weaving our ideas into reality. I can't wait to share more about our journey with you – stay tuned for updates!
 
 So, whether you're a fellow tech junkie, a startup enthusiast, or just someone looking to stay on the cutting edge of what's happening in tech, welcome to the Szechuan SaaS blog!
 
 A few more notes about me:
 🤝 a polygot developer working primarily with Rust (Diesel-Orm,Actix-web, Shuttle.rs), Javascript (React & Node).
+
 🌱 I’m currently learning how to build smart contracts with Rust.
+
 ✨ Interested in blockchain technology , Web3, and to collaborate on front end development for my public repos & open source.
+
 🤔 I’m looking for help with monetizing apps and finding product market fit for side projects & learning more about cloud developent (AWS)
+
 💬 Ask me anything
+
+note: gpt did helped me edit minor grammar, the meta aspect of this blog is to make me a better technical writer.
