@@ -20,5 +20,3 @@ A few more notes about me:
 🤔 I’m looking for help with monetizing apps and finding product market fit for side projects & learning more about cloud developent (AWS)
 
 💬 Ask me anything
-
-note: gpt did helped me edit minor grammar, the meta aspect of this blog is to make me a better technical writer. (would be cool to see this kind of verification accross the web maybe using something like [Spruce](https://www.spruceid.dev/))
