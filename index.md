@@ -21,4 +21,4 @@ A few more notes about me:
 
 note: gpt did helped me edit minor grammar, the meta aspect of this blog is to make me a better technical writer. (would be cool to see this kind of verification accross the web maybe using something like [Spruce](https://www.spruceid.dev/))
 
-Official [Meet The Requirements Merch](https://meet-the-requirements.printify.me/product/2507784/underrated)
+Official [Meet The Requirements Merch](https://meet-the-requirements.printify.me/products)
