@@ -1,6 +1,6 @@
 Hi, I'm Sharif – an unapologetic tech enthusiast with a affinity for all things startups, especially in the fintech and SaaS realms. I find joy writing lines of code and late-night brainstorming sessions over some good matcha.
 
-I kicked off this blog as a platform to dive headfirst into the whirlwind world of technology, education, and som. Here, you'll find me sharing my thoughts, insights, and even a few war stories from the trenches of the startup battlefield. It's not just about the latest gadgets or trendy apps; it's about dissecting the very heartbeat of innovation.
+I kicked off this blog as a platform to dive headfirst into the whirlwind world of technology, education, and some market specific hot takes. Here, you'll find me sharing my thoughts, insights, and even a few war stories from the trenches of the startup battlefield. It's not just about the latest gadgets or trendy apps; it's about dissecting the very heartbeat of innovation.
 
 Let's get to the nitty-gritty of what's keeping me busy:
 
