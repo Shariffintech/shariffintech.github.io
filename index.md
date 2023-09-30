@@ -19,5 +19,4 @@ A few more notes about me:
 
 💬 Ask me anything
 
-note: gpt did helped me edit minor grammar, the meta aspect of this blog is to make me a better technical writer. (would be cool to see this kind of verification accross the web maybe using something like [Spruce]((https://www.spruceid.dev/)https://www.spruceid.dev/))
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+note: gpt did helped me edit minor grammar, the meta aspect of this blog is to make me a better technical writer. (would be cool to see this kind of verification accross the web maybe using something like [Spruce](https://www.spruceid.dev/))
