@@ -6,7 +6,7 @@ Let's get to the nitty-gritty of what's keeping me busy:
 
 🔭 Right now, I'm deep into two intriguing projects that are really stirring things up. I've got an amazing crew of like-minded thinkers alongside me, and together, we're weaving our ideas into reality. I can't wait to share more about our journey with you – stay tuned for updates!
 
-So, whether you're a fellow tech junkie, a startup enthusiast, or just someone looking to stay on the cutting edge of what's happening in tech, welcome to the Szechuan SaaS blog!
+So, whether you're a fellow technologist like me, a startup enthusiast, or just someone looking to stay on the cutting edge of what's happening in tech, welcome to the `Meet The Requirements` blog!
 
 A few more notes about me:
 🤝 a polygot developer working primarily with Rust (Diesel-Orm,Actix-web, Shuttle.rs), Javascript (React & Node).
@@ -19,4 +19,4 @@ A few more notes about me:
 
 💬 Ask me anything
 
-note: gpt did helped me edit minor grammar, the meta aspect of this blog is to make me a better technical writer.
+note: gpt did helped me edit minor grammar, the meta aspect of this blog is to make me a better technical writer. (would be cool to see this kind of verification accross the web maybe using something like [Spruce]((https://www.spruceid.dev/)https://www.spruceid.dev/))
