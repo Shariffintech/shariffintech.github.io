@@ -1,4 +1,4 @@
-Official [Meet The Requirements Merch](https://meet-the-requirements.printify.me/products)
+Official [`Meet The Requirements Merch`](https://meet-the-requirements.printify.me/products)
 
 Hi, I'm Sharif – an unapologetic tech enthusiast with a affinity for all things startups, especially in the fintech and SaaS realms. I find joy writing lines of code and late-night brainstorming sessions over some good matcha.
 
