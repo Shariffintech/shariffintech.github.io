@@ -1,5 +1,5 @@
 Discussing the significance of Education Technology in the modern education environment
-I spent the last 9 months looking at the role of education technology and found how it has switched from being a supporting character for educators in the classroom into a dynamic lead in the role of improving child outcomes. Why? Because I believe the best products are built around the people who are closest to them. So when I was approached by my co-founder with this problem she was having with managing childcare data in her workflow, we uncovered a whole nesting doll of gaps in the childcare ecosystem and on a more macro level, inefficiencies in the education system, primary and secondary. This was in 2021 and before that, I was mostly focused on fintech, algorithmic trading, and Blockchain/Web3 and the issues they addressed **![Investing in the Underbanked](https://shariftech18.medium.com/adoption-under-the-umbrella-of-fintech-2407f157ce5a)**. 
+I spent the last 9 months looking at the role of education technology and found how it has switched from being a supporting character for educators in the classroom into a dynamic lead in the role of improving child outcomes. Why? Because I believe the best products are built around the people who are closest to them. So when I was approached by my co-founder with this problem she was having with managing childcare data in her workflow, we uncovered a whole nesting doll of gaps in the childcare ecosystem and on a more macro level, inefficiencies in the education system, primary and secondary. This was in 2021 and before that, I was mostly focused on fintech, algorithmic trading, and Blockchain/Web3 and the issues they addressed [Investing in the Underbanked](https://shariftech18.medium.com/adoption-under-the-umbrella-of-fintech-2407f157ce5a). 
 
 ![giphy](https://github.com/Shariffintech/shariffintech.github.io/assets/22308837/c97bbbd5-a888-4fa7-8400-f42be62ef3cd)
 
@@ -51,9 +51,9 @@ Ensuring the safety of students and teachers is an ongoing challenge in Philadel
 
 These challenges in Philadelphia's education system are indicators of broader inefficiencies that need to be addressed to provide a high-quality education to all students. These issues underline the need for a comprehensive approach to reforming the educational system, not only in Philadelphia but also in many urban areas, to ensure that every student has access to a quality education and equal opportunities for success.
 
-**[Machine Platform Crowd](https://www.audible.com/pd/Machine-Platform-Crowd-Audiobook/B0731HG6JB?source_code=GO1GB547041122911G&ds_rl=1261256&gclid=CjwKCAjws9ipBhB1EiwAccEi1LICiAnPzH9c88tapR9kheRYpg7Ykq9Rnc9ddpf3_8p27OiGRBjHNRoCKFcQAvD_BwE&gclsrc=aw.ds) Parallels**
+**Machine Platform Crowd Parallels**
 
- It's just as if I'm reading the book ***Machine, Platform, Crowd: Harnessing Our Digital Future by Andrew McAfee and Erik Brynjolfsson*** all over again…only this time, I'm actually living it. That book is divided into three main sections, each being significantly relevant for the field of education technology:
+ It's just as if I'm reading the book ***[Machine, Platform, Crowd: Harnessing Our Digital Future by Andrew McAfee and Erik Brynjolfsson](https://www.audible.com/pd/Machine-Platform-Crowd-Audiobook/B0731HG6JB?source_code=GO1GB547041122911G&ds_rl=1261256&gclid=CjwKCAjws9ipBhB1EiwAccEi1LICiAnPzH9c88tapR9kheRYpg7Ykq9Rnc9ddpf3_8p27OiGRBjHNRoCKFcQAvD_BwE&gclsrc=aw.ds)*** all over again…only this time, I'm actually living it. That book is divided into three main sections, each being significantly relevant for the field of education technology:
 
 **1st section**, **The Age of the Machine,** 
 expands on the rise of machine learning, ai, and automation. Edtech in general has drastically evolved since this book was published and continues to use these technologies for personalized learning experiences, automated administrative tasks, and improved educational outcomes.
@@ -64,17 +64,7 @@ emphasized the power of digital platforms in connecting individuals and organiza
 **Last section**, **The Age of the Crowd,**
 focuses on “the crowd” as a source of innovation and collective problem-solving. Crowdsourcing plays an important role in the development of open educational resources, curriculum design, and the evolution of teaching concepts. For us developers, an example of crowdsourcing is contributing to open source. I did notice that educators love using Reddit and Twitter to share tips in the classroom. Collaborative online communities and forums continue to provide essential spaces for educators to exchange insights, best practices, and mutual support.
 
-The insights from "Machine, Platform, Crowd" remain highly relevant to the dynamic and evolving landscape of education technology which is why I chose to highlight this as a theme throughout this post and the software I build. Machine learning and amplified intelligence (AI) are rapidly shaping personalized learning experiences, while platforms for online education are now indispensable for students, offering access to diverse courses and resources.
-
-**Macro Tech and Education Trends**
-
-Despite the more macro-level challenges facing both the technology industry and the education system, there remains a significant opportunity for the education system to improve through innovative Software as a Service (SaaS) solutions. 
-
-The tech industry overall faces challenges such as data privacy concerns, cybersecurity threats, and evolving regulations which create an underlying turbulent environment. On the other hand, the U.S. education system grapples with issues like resource inequality, outdated infrastructure, and the impact of socioeconomic disparities on learning outcomes. These challenges might seem daunting, but they also create a fertile ground for innovative solutions.
-
-SaaS solutions in the education sector have the potential to address multiple problems simultaneously. These solutions can provide cost-effective alternatives to traditional educational tools, making quality education more accessible. For instance, SaaS-based learning management systems, collaborative platforms, and cloud-based educational software can bridge resource gaps, enabling schools to offer advanced learning experiences even with limited budgets.
-
-Software can be scalable, flexible, and adaptive to diverse learning needs. It can enhance personalized learning, enable students to progress at their own pace and cater to individual strengths and weaknesses. Teachers can also benefit from streamlined administrative processes, reducing their workload and enabling them to focus more on instruction and student support.
+These themes highly relevant to the dynamic and evolving landscape of education technology, where software is definitely eating the world.
 
 **What I learned….Empathy and Compassion**
 
