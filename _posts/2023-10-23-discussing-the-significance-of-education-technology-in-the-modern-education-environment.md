@@ -3,9 +3,9 @@ I spent the last 9 months looking at the role of education technology and found 
 
 ![giphy](https://github.com/Shariffintech/shariffintech.github.io/assets/22308837/c97bbbd5-a888-4fa7-8400-f42be62ef3cd)
 
-The problem…..
+Back to the problem…..
 
-The challenge of managing student data in the classroom really resonated with me due to the tangled web of tasks in childcare. These fragmented workflows end up taking a toll on teachers' productivity over time. To make it more relatable, a close collaborator in my network with extensive experience in the childcare industry faces a tough time managing their data. Being a new dad also gives me a new appreciation for quality childcare and how it should be provided to every child regardless of what administrative constraints the childcare program staff has, or how crowded the classrooms are. I would not want my son’s needs in the classroom to go unmet because of a staff shortage or crowded classroom. I am committed to continuing to learn more about the environments teachers lead our youth through and supporting our teachers to make more informed decisions in the classroom through building impactful software that can hopefully make a difference, so now I'm Investing in the overwhelmed and undertaught.
+The challenge of managing student data in the classroom really resonated with me due to the tangled web of tasks in childcare. These fragmented workflows end up taking a toll on teachers' productivity over time. To make it more relatable, a close collaborator in my network with extensive experience in the childcare industry faces a tough time managing their data. As a new dad, learning more about their painpoints has given me a newfound appreciation for the importance of high-quality childcare. I would not want my son’s needs in the classroom to go unmet because of a staff shortage or crowded classroom. I am committed to continuing to learn more about the environments teachers lead our youth through and supporting our teachers to make more informed decisions in the classroom through building impactful software that can hopefully make a difference, so now I'm Investing in the overwhelmed and undertaught.
 
 ![tumblr_inline_ntk2mmYOu91r3o8xp_500](https://github.com/Shariffintech/shariffintech.github.io/assets/22308837/babbb12e-d2a1-43d4-af26-b66fb3f0b588)
 
