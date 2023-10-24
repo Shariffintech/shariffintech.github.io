@@ -65,7 +65,7 @@ emphasized the power of digital platforms in connecting individuals and organiza
 **Last section**, **The Age of the Crowd,**
 focuses on “the crowd” as a source of innovation and collective problem-solving. Crowdsourcing plays an important role in the development of open educational resources, curriculum design, and the evolution of teaching concepts. For us developers, an example of crowdsourcing is contributing to open source. I did notice that educators love using Reddit and Twitter to share tips in the classroom. Collaborative online communities and forums continue to provide essential spaces for educators to exchange insights, best practices, and mutual support.
 
-These themes highly relevant to the dynamic and evolving landscape of education technology, where software is definitely eating the world.
+These themes are highly relevant to the dynamic and evolving landscape of education technology, where software is definitely eating the world.
 
 **What I learned….Empathy and Compassion**
 
@@ -74,4 +74,6 @@ Education is not just about numbers and statistics; it's about nurturing young m
 It took me awhile to write this essay but after reading Paul Graham’s  “How to Write Usefully” essay, I felt more at ease when I read the statement: *Mistakes seem to lose courage in the face of an enemy with unlimited resources.* so I started to document my journey.
 
 As always here are some [vibes](https://soundcloud.com/aprtmentlife/parisaprtmentlife?in=s-designs-1/sets/i-got-one-for-yall/) for the road, stay tuned for my next post!
+
+Check out official [`Meet The Requirements`](https://meet-the-requirements.printify.me/product/3115891/overwhelmed-and-undertaught) merch to support this blog and own some swag.
 
