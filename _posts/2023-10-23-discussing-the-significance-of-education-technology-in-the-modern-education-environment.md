@@ -74,5 +74,5 @@ Education is not just about numbers and statistics; it's about nurturing young m
 
 It took me awhile to write this essay but after reading Paul Graham’s  “How to Write Usefully” essay, I felt more at ease when I read the statement: *Mistakes seem to lose courage in the face of an enemy with unlimited resources.* so I started to document my journey.
 
-As always here are some vibes for the road, stay tuned for my next post!
-https://soundcloud.com/aprtmentlife/parisaprtmentlife?in=s-designs-1/sets/i-got-one-for-yall/
+As always here are some [vibes](https://soundcloud.com/aprtmentlife/parisaprtmentlife?in=s-designs-1/sets/i-got-one-for-yall/) for the road, stay tuned for my next post!
+
