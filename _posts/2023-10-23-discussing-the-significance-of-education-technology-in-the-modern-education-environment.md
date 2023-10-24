@@ -55,7 +55,7 @@ These challenges in Philadelphia's education system are indicators of broader in
 
 **Machine Platform Crowd Parallels**
 
- It's just as if I'm reading the book ***[Machine, Platform, Crowd: Harnessing Our Digital Future by Andrew McAfee and Erik Brynjolfsson](https://www.audible.com/pd/Machine-Platform-Crowd-Audiobook/B0731HG6JB?source_code=GO1GB547041122911G&ds_rl=1261256&gclid=CjwKCAjws9ipBhB1EiwAccEi1LICiAnPzH9c88tapR9kheRYpg7Ykq9Rnc9ddpf3_8p27OiGRBjHNRoCKFcQAvD_BwE&gclsrc=aw.ds)*** all over again…only this time, I'm actually living it. That book is divided into three main sections, each being significantly relevant for the field of education technology:
+ It's just as if I'm reading the book ***[Machine, Platform, Crowd: Harnessing Our Digital Future](https://www.audible.com/pd/Machine-Platform-Crowd-Audiobook/B0731HG6JB?source_code=GO1GB547041122911G&ds_rl=1261256&gclid=CjwKCAjws9ipBhB1EiwAccEi1LICiAnPzH9c88tapR9kheRYpg7Ykq9Rnc9ddpf3_8p27OiGRBjHNRoCKFcQAvD_BwE&gclsrc=aw.ds)*** all over again…only this time, I'm actually living it. That book is divided into three main sections, each being significantly relevant for the field of education technology:
 
 **1st section**, **The Age of the Machine,** 
 expands on the rise of machine learning, ai, and automation. Edtech in general has drastically evolved since this book was published and continues to use these technologies for personalized learning experiences, automated administrative tasks, and improved educational outcomes.
