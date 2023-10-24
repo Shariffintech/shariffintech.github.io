@@ -14,7 +14,7 @@ The challenge of managing student data in the classroom really resonated with me
 
 *Philadelphia & the administrative 4th wall*
 
-Before even suggesting that tech be the cure all to solve the school systems problems I will be the first to let you know that is not the case, it is certainly part of the solution but there are other underlying factors that will improve the education system , the true catalyst, being the instruction from our educators who will continue to have the most impact on our students, we need to empower them; The legislation also gives educators a baseline to implement the effective curriculum, etc…
+Before even suggesting that tech be the cure all to solve the school systems problems I will be the first to let you know that is not the case, it is certainly part of the solution but there are other underlying factors that will improve the education system , the true catalyst, being the instruction from our educators who will continue to have the most impact on our students, we need to empower them;
 
 Technology has its limitations…… more screen time = more fatigue, reduced face to face interaction, concerns about data privacy and security, increased risk of amplifying *the digital divide*, where not all students have equal access to resources and tech. **Over relying on tech** can sometimes stunt critical thinking and problem solving skills (chatgpt) as well as distractions that affect students focus and engagement in the learning process. I experience this first hand as a software engineer and end up being counter productive when I’m solving bugs. I sort this out by resorting to doing a brain dump with pen and paper. These are just a few factors that could be counterproductive if we lean to much on the tech.
 
